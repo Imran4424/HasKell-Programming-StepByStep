@@ -2,7 +2,7 @@
 
 1. Write a program that prints your name
 2. An integer variable n contains 5. Write a program that prints value of n.
-3. Variable declaration in Hashkell (Both constant and non constant)
+3. Variable declaration in Haskell (Both constant and non constant)
 
 # Operators
 
