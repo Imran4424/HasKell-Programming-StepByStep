@@ -1,4 +1,4 @@
--- Write a program that read and display floating point number
+-- Write a program that read and display double number
 
 module Main where
 
