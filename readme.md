@@ -4,6 +4,7 @@
 2. An integer variable n contains 5. Write a program that prints value of n.
 3. Variable declaration in Haskell (Both constant and non constant)
 4. Write a program that read and display an integer number
+5. Write a program that read and display floating point number
 
 # Operators
 
