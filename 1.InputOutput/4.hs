@@ -10,4 +10,4 @@ main = do
 
 
 -- There is another Int type which is Integer
--- 
+-- Integer: Arbitrary-precision integers, not limited by system architecture.
