@@ -1,0 +1,1 @@
+-- Write a program that read and display any character
