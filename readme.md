@@ -22,7 +22,7 @@
 3. Write a program that read two integers and display product
 4. Write a program that read two integers and divide them
 5. Write a program that read two floating point numbers and divide them
-6. 
+6. Write a program that read radius of a circle and display the area
 7. 
 
 # Math Operators
