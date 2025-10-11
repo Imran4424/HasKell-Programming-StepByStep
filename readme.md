@@ -22,7 +22,7 @@
 3. Write a program that read two integers and display product
 4. Write a program that read two integers and divide them
 5. Write a program that read two floating point numbers and divide them
-6. Write a program that read two integer and display remainder
+6. 
 7. 
 
 # Math Operators
