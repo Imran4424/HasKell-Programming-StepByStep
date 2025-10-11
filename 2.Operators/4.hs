@@ -7,4 +7,20 @@ main = do
 	a <- readLn :: IO Int
 	putStrLn "Enter second integer:"
 	b <- readLn :: IO Int
-	putStrLn ("Sum = " ++ show (a / b))
+	-- below line will give error
+	-- putStrLn ("Sum = " ++ show (a / b))
+
+	if b == 0 then
+		putStrLn "Error: division by zero is not allowed."
+	else
+		let quotient = a `div` b
+		let remainder = a `mod` b
+		let fraction = fromIntegral a / fromIntegral b :: Double
+
+		putStrLn ("Integer division: " ++ show a ++ " div " ++ show b ++ " = " ++ show quotient)
+	        putStrLn ("Remainder: " ++ show remainder)
+	        putStrLn ("Fractional result: " ++ show fraction)
+
+
+
+-- (/) fraction division only works with fractional class (Float, Double, Rational)
