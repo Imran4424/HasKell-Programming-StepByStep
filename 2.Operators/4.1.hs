@@ -14,8 +14,8 @@ main = do
 		putStrLn "Error: division by zero is not allowed."
 	else do
 		let quotient = a `div` b
-		let remainder = a `mod` b
-		let fraction = fromIntegral a / fromIntegral b :: Double
+		    remainder = a `mod` b
+		    fraction = fromIntegral a / fromIntegral b :: Double
 
 		putStrLn ("Integer division: " ++ show a ++ " div " ++ show b ++ " = " ++ show quotient)
 	        putStrLn ("Remainder: " ++ show remainder)
