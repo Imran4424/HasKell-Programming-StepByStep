@@ -5,6 +5,6 @@ module Main where
 import Data.Char
 
 main = do
-	putStrLn "Enter a character"
+	putStrLn "Enter the lowercase character"
 	char <- getChar -- reads exactly one character
-	putStrLn ("Equivalent ASCII value: " ++ show (ord char))
+	putStrLn ("Equivalent uppercase: " ++ [toUpper char])
