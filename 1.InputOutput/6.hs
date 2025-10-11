@@ -4,5 +4,5 @@ module Main where
 
 main = do 
 	putStrLn "Enter an floatint point number"
-	number <- readLn :: IO Float
+	number <- readLn :: IO Double
 	putStrLn ("You entered: " ++ show number)
