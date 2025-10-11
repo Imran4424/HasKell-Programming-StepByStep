@@ -1,4 +1,4 @@
--- Write a program that subtracts two integers
+-- Write a program that read two integers and display product
 
 module Main where
 
@@ -7,4 +7,4 @@ main = do
 	a <- readLn :: IO Int
 	putStrLn "Enter second integer:"
 	b <- readLn :: IO Int
-	putStrLn ("Sum = " ++ show (a - b))
+	putStrLn ("Sum = " ++ show (a * b))
