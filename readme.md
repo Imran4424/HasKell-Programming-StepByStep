@@ -12,10 +12,18 @@
 10. Write a program that read any lower case character and display in upper case
 11. Write a program that read any upper case character and display in lower case
 12. Write a program that declares and uses any Bool literals
-13. 
-
+13. Write a program that read and display your name
+14. Write a program that read and display your full name
+15. 
 
 # Operators
+1. Write a program that read two integer and display sum
+2. Write a program that subtracts two integers
+3. Write a program that read two integers and display product
+4. Write a program that read two integers and divide them
+5. Write a program that read two floating point numbers and divide them
+6. Write a program that read two integer and display remainder
+7. 
 
 # Math Operators
 
