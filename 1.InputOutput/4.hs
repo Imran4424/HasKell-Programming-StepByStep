@@ -6,3 +6,8 @@ main = do
 	putStrLn "Enter an integer number"
 	number <- readLn :: IO Int
 	putStrLn ("You entered: " ++ show number)
+
+
+
+-- There is another Int type which is Integer
+-- 
