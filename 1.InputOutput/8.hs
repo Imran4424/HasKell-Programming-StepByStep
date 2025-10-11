@@ -2,6 +2,8 @@
 
 module Main where
 
+import Data.Char
+
 main = do
 	putStrLn "Enter an ASCII value (0-255):"
 
