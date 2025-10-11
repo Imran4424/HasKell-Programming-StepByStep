@@ -9,3 +9,6 @@ main = do
 	putStrLn "Enter the radius of the circle:"
 	radius <- readLn :: IO Double
 	putStrLn ("Area of the circle is = " ++ show (pi * (radius ** 2)))
+
+
+-- ** - exponent operator
