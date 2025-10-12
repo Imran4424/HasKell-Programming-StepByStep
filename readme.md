@@ -23,7 +23,9 @@
 4. Write a program that read two integers and divide them
 5. Write a program that read two floating point numbers and divide them
 6. Write a program that read radius of a circle and display the area
-7. 
+7. Read two integer base and power and use (^) operator for mathematical operation
+8. Read two floating point base and power and use (**) operator for mathematical operation
+
 
 # Math Operators
 
