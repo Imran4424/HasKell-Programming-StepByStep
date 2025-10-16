@@ -1,0 +1,1 @@
+-- Write a program that read a number and divide by two using shift operator
