@@ -4,4 +4,5 @@ module Main where
 
 import Data.Bits
 
-main = putStrLn "Hello World"
+main = do
+	
