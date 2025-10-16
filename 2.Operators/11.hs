@@ -5,4 +5,5 @@ module Main where
 import Data.Bits
 
 main = do
-	
+	putStrLn "Enter an Integer: "
+	number <- readLn :: IO Int
