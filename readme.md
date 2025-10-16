@@ -23,9 +23,9 @@
 4. Write a program that read two integers and divide them
 5. Write a program that read two floating point numbers and divide them
 6. Write a program that read radius of a circle and display the area
-7.  Read an integer, print its negation using unary - and compare with negate (explain difference in precedence).
-8.  Write a program that read two numbers and display bitwise AND
-9.  Write a program that read two numbers and display bitwise OR
+7. Read an integer, print its negation using unary - and compare with negate (explain difference in precedence).
+8. Write a program that read two numbers and display bitwise AND
+9. Write a program that read two numbers and display bitwise OR
 10. Write a program that read two numbers and display bitwise Exclusive OR
 11. Write a program that read a number and divide by two using shift operator
 12. Write a program that read a number and multiply by two using shift operator
