@@ -8,3 +8,4 @@ main = do
 	putStrLn "Enter second Integer: "
 	y <- readLn :: IO Int
 	putStrLn ("Exclusive OR = " ++ show (x .^. y))
+	putStrLn ("Exclusive OR = " ++ show (x `xor` y))
