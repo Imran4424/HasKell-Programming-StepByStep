@@ -1,0 +1,1 @@
+-- Write a program that read a number and multiply by five using shift operator
