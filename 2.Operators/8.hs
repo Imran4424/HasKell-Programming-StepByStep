@@ -2,6 +2,8 @@
 
 module Main where
 
+import Data.Bits
+
 main = do
 	putStrLn "Enter first Integer: "
 	x <- readLn :: IO Int
