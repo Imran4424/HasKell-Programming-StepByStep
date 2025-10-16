@@ -1,5 +1,7 @@
 -- Write a program that read two numbers and display bitwise OR
 
+module Main where
+
 import Data.Bits
 
 main = do
