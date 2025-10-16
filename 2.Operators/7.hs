@@ -9,4 +9,4 @@ main = do
 
 	putStrLn $ "unary -number = " ++ show (-number)
 	putStrLn $ "negate number = " ++ show (negate number)
-	putStrLn $ "Is unary - equal to negate - = " ++ show ((-number) == negate number)
+	putStrLn $ "Is unary - equal to negate - ? " ++ show ((-number) == negate number)
