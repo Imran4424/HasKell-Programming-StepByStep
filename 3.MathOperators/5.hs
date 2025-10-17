@@ -3,5 +3,5 @@
 module Main where
 
 main = do -- do is needed for multiple statements
-	putStrLn "Enter a number:"
+	putStrLn "Enter a number (>= 0):"
 	number <- readLn :: IO Double
