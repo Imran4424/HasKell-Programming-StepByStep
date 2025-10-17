@@ -3,7 +3,10 @@
 module Main where
 
 main = do
-	putStrLn "Enter first integer:"
-	x <- readLn :: IO Int
-	putStrLn "Enter second integer:"
-	y <- readLn :: IO Int
+	putStrLn "Enter first number:"
+	x <- readLn :: IO Double
+	putStrLn "Enter second number:"
+	y <- readLn :: IO Double
+
+	let bigger = if a > b then a else b
+	putStrLn ("Maximum = " ++ show bigger)
