@@ -62,5 +62,6 @@
 
 1. Write a program that read an integer and prints odd or even
 2. Write a program to determine whether a number is divisible by 5 or not
+3. Write a program that read two numbers and display maximum
 
 # Control Logic
