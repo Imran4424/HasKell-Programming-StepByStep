@@ -6,3 +6,7 @@ main = do
 	putStrLn "Enter base (integer):"
 	base <- readLn :: IO Integer -- big integers to avoid overflow
 	putStrLn "Enter power/exponent (integer, >= 0):"
+	power <- readLn :: IO Int
+
+	if power < 0 then
+		
