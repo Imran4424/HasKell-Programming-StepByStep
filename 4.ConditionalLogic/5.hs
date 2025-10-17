@@ -9,3 +9,4 @@ main = do
 	y <- readLn :: IO Double
 	putStrLn "Enter third number:"
 	z <- readLn :: IO Double
+	putStrLn ("Maximum = " ++ show (maximum [x, y, z]))
