@@ -64,5 +64,6 @@
 2. Write a program to determine whether a number is divisible by 5 or not
 3. Write a program that read two numbers and display maximum
 4. Write a program that read two numbers and display minimum
+5. Write a program that read three numbers and display maximum
 
 # Control Logic
