@@ -11,5 +11,5 @@ main = do -- do is needed for multiple statements
 	if power < 0 then
 		putStrLn "Error: (^) requires a non-negative exponent."
 	else do -- do is needed for multiple statements
-		let result = base ^ power
+		let result = base ** power
 		putStrLn ("Result: " ++ show result)
