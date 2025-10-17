@@ -8,5 +8,5 @@ main = do
 	putStrLn "Enter second number:"
 	y <- readLn :: IO Double
 
-	let bigger = if a > b then a else b
+	let bigger = if x > y then x else y
 	putStrLn ("Maximum = " ++ show bigger)
