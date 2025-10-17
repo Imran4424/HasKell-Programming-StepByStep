@@ -5,3 +5,4 @@ module Main where
 main = do
 	putStrLn "Enter a number: "
 	number <- readLn :: IO Double
+	
