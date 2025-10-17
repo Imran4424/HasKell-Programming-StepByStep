@@ -66,12 +66,13 @@
 4. Write a program that read two numbers and display minimum
 5. Write a program that read three numbers and display maximum
 6. Write a program that read three numbers and display minimum
-7. Write a program that read mark and display result in grade
-8. Write a program that read any year and display its leap year or not
-9. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should be checked
-10. Write a program to input any character and check whether it is alphabet, digit or special character
-11. Write a program to check whether a character is uppercase or lowercase alphabet
-12. Write a program to generate a simple arithmetic calculator
+7. Write a program that read three numbers and display median
+8. Write a program that read mark and display result in grade
+9. Write a program that read any year and display its leap year or not
+10. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should be checked
+11. Write a program to input any character and check whether it is alphabet, digit or special character
+12. Write a program to check whether a character is uppercase or lowercase alphabet
+13. Write a program to generate a simple arithmetic calculator
 
             hints:
                   enter two numbers: 6 5
@@ -80,6 +81,6 @@
                      2. Subtract
                      3. Multiply
                      4. Divide
-13. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation: ax^2 + bx + c = 0
+14. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation: ax^2 + bx + c = 0
 
 # Control Logic
