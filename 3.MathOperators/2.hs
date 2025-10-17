@@ -9,4 +9,7 @@ main = do
 	power <- readLn :: IO Int
 
 	if power < 0 then
-		
+		putStrLn "Error: (^) requires a non-negative exponent."
+	else 
+		let result = base ^ power
+		putStrLn ("Result: " ++ show result)
