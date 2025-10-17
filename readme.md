@@ -72,5 +72,6 @@
 10. Write a program to input any character and check whether it is alphabet, digit or special character
 11. Write a program to check whether a character is uppercase or lowercase alphabet
 12. Write a program to generate a simple arithmetic calculator
+13. Write a program that read three numbers a,b,c and determine the roots of the quadratic equation: ax^2 + bx + c = 0
 
 # Control Logic
