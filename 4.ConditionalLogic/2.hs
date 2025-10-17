@@ -7,3 +7,4 @@ main = do
 	x <- readLn :: IO Double
 	putStrLn "Enter second number:"
 	y <- readLn :: IO Double
+	putStrLn ("Maximum = " ++ show (max a b))
