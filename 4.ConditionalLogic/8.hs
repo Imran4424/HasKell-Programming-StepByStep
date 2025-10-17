@@ -1,0 +1,1 @@
+-- Write a program that read mark and display result in grade
