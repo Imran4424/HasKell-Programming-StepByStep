@@ -8,3 +8,5 @@ main = do -- do is needed for multiple statements
 
 	if number < 0 then
 		putStrLn "Error: square root of a negative number is not real."
+	else 
+		putStrLn ("Square root = " ++ show (sqrt x))
