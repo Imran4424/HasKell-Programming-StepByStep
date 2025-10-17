@@ -10,6 +10,6 @@ main = do
 
 	if power < 0 then
 		putStrLn "Error: (^) requires a non-negative exponent."
-	else 
+	else do
 		let result = base ^ power
 		putStrLn ("Result: " ++ show result)
