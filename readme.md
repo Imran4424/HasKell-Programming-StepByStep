@@ -69,5 +69,6 @@
 7. Write a program that read mark and display result in grade
 8. Write a program that read any year and display its leap year or not
 9. Write the code to check whether an input alphabet is a vowel or not. Both lower-case and upper-case should be checked
+10. Write a program to input any character and check whether it is alphabet, digit or special character
 
 # Control Logic
