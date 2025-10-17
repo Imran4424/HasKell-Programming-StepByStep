@@ -3,9 +3,9 @@
 module Main where
 
 main = do -- do is needed for multiple statements
-	putStrLn "Enter base (integer):"
+	putStrLn "Enter base:"
 	base <- readLn :: IO Double
-	putStrLn "Enter power/exponent (integer, >= 0):"
+	putStrLn "Enter power/exponent:"
 	power <- readLn :: IO Double
 
 	if power < 0 then
