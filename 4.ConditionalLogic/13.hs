@@ -7,10 +7,8 @@
 --          3. Multiply
 --          4. Divide
 
--- Main.hs
 module Main where
 
-main :: IO ()
 main = do
   putStrLn "Enter two numbers (e.g., 6 5):"
   line <- getLine
