@@ -22,10 +22,10 @@ main = do
 			putStrLn "  4. Divide"
 			choice <- readLn :: IO Int
 			case choice of
-        1 -> putStrLn $ "Result: " ++ show (a + b)
-        2 -> putStrLn $ "Result: " ++ show (a - b)
-        3 -> putStrLn $ "Result: " ++ show (a * b)
-        4 -> if b == 0
+				1 -> putStrLn $ "Result: " ++ show (a + b)
+				2 -> putStrLn $ "Result: " ++ show (a - b)
+				3 -> putStrLn $ "Result: " ++ show (a * b)
+				4 -> if b == 0
                then putStrLn "Error: division by zero."
                else putStrLn $ "Result: " ++ show (a / b)
         _ -> putStrLn "Invalid choice (pick 1–4)."
