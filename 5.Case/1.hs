@@ -14,5 +14,5 @@ main = do
 		'5' -> "Five"
 		'6' -> "Six"
 		'7' -> "Seven"
-		'8' -> "One"
+		'8' -> "Eight"
 		'9' -> "One"
