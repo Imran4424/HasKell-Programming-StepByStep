@@ -88,4 +88,5 @@
 1. Write a program that read a digit and display by spelling
 2. Write a program that read any number and display equivalent roman number
 3. Write a program to print day of week name using case
-4. 
+4. Write a program print total number of days in a month using switch case
+5. 
