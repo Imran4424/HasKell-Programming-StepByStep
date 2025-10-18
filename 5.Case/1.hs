@@ -13,6 +13,6 @@ main = do
 		'4' -> "Four"
 		'5' -> "Five"
 		'6' -> "Six"
-		'7' -> "One"
+		'7' -> "Seven"
 		'8' -> "One"
 		'9' -> "One"
