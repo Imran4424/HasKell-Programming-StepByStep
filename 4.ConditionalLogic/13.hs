@@ -10,10 +10,10 @@
 module Main where
 
 main = do
-  putStrLn "Enter two numbers (e.g., 6 5):"
-  line <- getLine
-  let nums = map read (words line) :: [Double]
-  case nums of
+	putStrLn "Enter two numbers (e.g., 6 5):"
+	line <- getLine
+	let nums = map read (words line) :: [Double]
+	case nums of
     [a,b] -> do
       putStrLn "Select the menu:"
       putStrLn "  1. Add"
