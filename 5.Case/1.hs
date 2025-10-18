@@ -15,4 +15,4 @@ main = do
 		'6' -> "Six"
 		'7' -> "Seven"
 		'8' -> "Eight"
-		'9' -> "One"
+		'9' -> "Nine"
