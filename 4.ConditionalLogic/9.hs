@@ -4,4 +4,4 @@ module Main where
 
 main = do
 	putStrLn "Enter the year: "
-	mark <- readLn :: IO Double
+	year <- readLn :: IO Int
