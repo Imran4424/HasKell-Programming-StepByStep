@@ -29,5 +29,5 @@ main = do
 					putStrLn "Error: division by zero."
 				else 
 					putStrLn $ "Result: " ++ show (a / b)
-        _ -> putStrLn "Invalid choice (pick 1–4)."
+			_ -> putStrLn "Invalid choice (pick 1–4)."
     _ -> putStrLn "Please enter exactly two numbers separated by space."
