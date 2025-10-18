@@ -14,7 +14,7 @@ main = do
 	line <- getLine
 	let nums = map read (words line) :: [Double]
 	case nums of
-    [a,b] -> do
+		[a,b] -> do
       putStrLn "Select the menu:"
       putStrLn "  1. Add"
       putStrLn "  2. Subtract"
