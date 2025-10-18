@@ -8,3 +8,4 @@ main = do
 	putStrLn $ case char of
 		'0' -> "Zero"
 		'1' -> "One"
+		'1' -> "One"
