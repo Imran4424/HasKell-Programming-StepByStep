@@ -90,3 +90,5 @@
 3. Write a program to print day of week name using case
 4. Write a program print total number of days in a month using case
 5. Write a program to create Simple Calculator using case
+
+# Series
