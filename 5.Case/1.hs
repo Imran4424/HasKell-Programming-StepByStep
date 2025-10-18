@@ -7,4 +7,4 @@ main = do
 	char <- getChar -- reads exactly one character
 	putStrLn $ case char of
 		'0' -> "Zero"
-		'1' -> "Zero"
+		'1' -> "One"
