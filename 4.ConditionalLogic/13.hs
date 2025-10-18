@@ -15,13 +15,13 @@ main = do
 	let nums = map read (words line) :: [Double]
 	case nums of
 		[a,b] -> do
-      putStrLn "Select the menu:"
-      putStrLn "  1. Add"
-      putStrLn "  2. Subtract"
-      putStrLn "  3. Multiply"
-      putStrLn "  4. Divide"
-      choice <- readLn :: IO Int
-      case choice of
+			putStrLn "Select the menu:"
+			putStrLn "  1. Add"
+			putStrLn "  2. Subtract"
+			putStrLn "  3. Multiply"
+			putStrLn "  4. Divide"
+			choice <- readLn :: IO Int
+			case choice of
         1 -> putStrLn $ "Result: " ++ show (a + b)
         2 -> putStrLn $ "Result: " ++ show (a - b)
         3 -> putStrLn $ "Result: " ++ show (a * b)
