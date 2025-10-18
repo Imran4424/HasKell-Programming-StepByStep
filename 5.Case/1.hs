@@ -8,7 +8,7 @@ main = do
 	putStrLn $ case char of
 		'0' -> "Zero"
 		'1' -> "One"
-		'2' -> "One"
+		'2' -> "Two"
 		'3' -> "One"
 		'4' -> "One"
 		'5' -> "One"
