@@ -5,7 +5,7 @@ module Main where
 main = do
 	putStrLn "Enter a single digit (0-9):"
 	digit <- readLn :: IO Int
-	putStrLn $ case char of -- $ is the binding operation for cases
+	putStrLn $ case digit of -- $ is the binding operation for cases
 		0 -> "Zero"
 		1 -> "One"
 		2 -> "Two"
