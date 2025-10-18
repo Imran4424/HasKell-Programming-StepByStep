@@ -11,7 +11,7 @@ main = do
 		'2' -> "Two"
 		'3' -> "Three"
 		'4' -> "Four"
-		'5' -> "One"
+		'5' -> "Five"
 		'6' -> "One"
 		'7' -> "One"
 		'8' -> "One"
