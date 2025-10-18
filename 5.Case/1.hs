@@ -10,7 +10,7 @@ main = do
 		'1' -> "One"
 		'2' -> "Two"
 		'3' -> "Three"
-		'4' -> "One"
+		'4' -> "Four"
 		'5' -> "One"
 		'6' -> "One"
 		'7' -> "One"
