@@ -1,0 +1,1 @@
+-- Write a program that read a digit and display by spelling
