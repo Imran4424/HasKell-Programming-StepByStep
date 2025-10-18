@@ -7,3 +7,7 @@ import Data.Char
 main = do
 	putStrLn "Enter the uppercase character"
 	char <- getChar -- reads exactly one character
+	if isUpper char then
+		putStrLn "Uppercase letter"
+	else
+		putStrLn "Lowercase letter"
