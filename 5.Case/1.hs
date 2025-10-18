@@ -16,3 +16,4 @@ main = do
 		'7' -> "Seven"
 		'8' -> "Eight"
 		'9' -> "Nine"
+		 _  -> "Not a digit" 
